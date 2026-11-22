@@ -28,6 +28,7 @@ This is a Silly Simple Math Tutor for young children.
 - Says goodbye to the user
 - Creates a summary report of each question answered
   - Gives total number of questions answered, correct, incorrect, and the average correct
+- Functions for a lot of what the program does.
 
 
 ## Maintainers
@@ -36,10 +37,8 @@ This is a Silly Simple Math Tutor for young children.
 
 
 ## New Concepts Used
-- Vectors
-- New includes: iomanip and vectors
-- 2D vectors
-- Set width formatting
+- Functions
+- External files/headers
 
 
 ## Leveling up
